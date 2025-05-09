@@ -1,1 +1,1 @@
-# weather-
+# weather-A weather application allows users to enter a city name and get the current weather conditions, including temperature, humidity, and weather description. This project demonstrates working with APIs, asynchronous JavaScript (fetch/async-await), and DOM manipulation.
